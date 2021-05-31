@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 50vh;
-  background-image: url("agua.jpg");
+  background-image: url("../images/agua.jpg");
 }
 
 .box {
