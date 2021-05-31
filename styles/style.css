@@ -1,0 +1,22 @@
+body {
+  font-family: 'Open+Sans', cursive;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  background-image: url("https://goandflowproject.com/wp-content/uploads/2021/02/Baner-agua.jpg");
+}
+
+.box {
+  background: rgba(255,255,255,.7);
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+a {
+  color: #0bd;
+}
